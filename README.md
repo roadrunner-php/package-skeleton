@@ -6,6 +6,7 @@
 [![psalm](https://github.com/:vendor_slug/:package_slug/actions/workflows/psalm.yml/badge.svg)](https://github.com/:vendor_slug/:package_slug/actions)
 [![Codecov](https://codecov.io/gh/:vendor_slug/:package_slug/branch/master/graph/badge.svg)](https://codecov.io/gh/:vendor_slug/:package_slug/)
 [![Total Downloads](https://poser.pugx.org/:vendor_slug/:package_slug/downloads)](https://packagist.org/:vendor_slug/:package_slug/phpunit)
+<a href="https://discord.gg/8bZsjYhVVk"><img src="https://img.shields.io/badge/discord-chat-magenta.svg"></a>
 
 <!--delete-->
 ---
@@ -37,14 +38,6 @@ composer require :vendor_slug/:package_slug
 ```bash
 composer test
 ```
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 
 ## Security Vulnerabilities
 

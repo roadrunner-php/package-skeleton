@@ -30,7 +30,6 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "VendorName\\Skeleton\\Tests\\App\\": "tests/app",
       "VendorName\\Skeleton\\Tests\\": "tests/src"
     }
   },
